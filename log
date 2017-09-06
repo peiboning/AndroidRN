@@ -1,0 +1,61 @@
+09-06 16:27:11.063 3992-3992/? I/art: Not late-enabling -Xcheck:jni (already on)
+09-06 16:27:11.063 3992-3992/? W/art: Unexpected CPU variant for X86 using defaults: x86
+09-06 16:27:11.267 3992-3992/com.rn.android I/InstantRun: starting instant run server: is main process
+09-06 16:27:18.194 3992-4115/com.rn.android I/OpenGLRenderer: Initialized EGL, version 1.4
+09-06 16:27:18.194 3992-4115/com.rn.android D/OpenGLRenderer: Swap behavior 1
+09-06 16:27:18.194 3992-4115/com.rn.android W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+09-06 16:27:18.194 3992-4115/com.rn.android D/OpenGLRenderer: Swap behavior 0
+09-06 16:27:20.306 3992-4152/com.rn.android I/art: Thread[15,tid=4152,Native,Thread*=0x8bb0a900,peer=0x2acd1160,"AsyncTask #1"] recursive attempt to load library "/data/app/com.rn.android-2/lib/x86/libreactnativejni.so"
+09-06 16:27:20.378 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTRenderableViewManager
+09-06 16:27:20.381 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTGroupShadowNode
+09-06 16:27:20.384 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTShapeShadowNode
+09-06 16:27:20.385 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTTextShadowNode
+09-06 16:27:20.386 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTSurfaceViewManager
+09-06 16:27:20.387 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.art.ARTSurfaceViewShadowNode
+09-06 16:27:20.391 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.picker.ReactDialogPickerManager
+09-06 16:27:20.393 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.uimanager.LayoutShadowNode
+09-06 16:27:20.394 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.drawer.ReactDrawerLayoutManager
+09-06 16:27:20.395 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.picker.ReactDropdownPickerManager
+09-06 16:27:20.395 3992-3992/com.rn.android W/unknown:React: Unable to dispatch keyboard events in JS as the react instance has not been attached
+09-06 16:27:20.395 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactHorizontalScrollViewManager
+09-06 16:27:20.397 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.image.ReactImageManager
+09-06 16:27:20.400 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.progressbar.ReactProgressBarViewManager
+09-06 16:27:20.401 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.progressbar.ProgressBarShadowNode
+09-06 16:27:20.402 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactRawTextManager
+09-06 16:27:20.403 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactTextShadowNode
+09-06 16:27:20.405 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.scroll.ReactScrollViewManager
+09-06 16:27:20.405 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.switchview.ReactSwitchManager
+09-06 16:27:20.406 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.switchview.ReactSwitchManager$ReactSwitchShadowNode
+09-06 16:27:20.407 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactTextInlineImageViewManager
+09-06 16:27:20.407 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactTextInlineImageShadowNode
+09-06 16:27:20.409 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.textinput.ReactTextInputManager
+09-06 16:27:20.410 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.textinput.ReactTextInputShadowNode
+09-06 16:27:20.411 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactTextViewManager
+09-06 16:27:20.412 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.toolbar.ReactToolbarManager
+09-06 16:27:20.413 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.view.ReactViewManager
+09-06 16:27:20.414 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.viewpager.ReactViewPagerManager
+09-06 16:27:20.415 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.text.ReactVirtualTextViewManager
+09-06 16:27:20.415 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.webview.ReactWebViewManager
+09-06 16:27:20.416 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.recyclerview.RecyclerViewBackedScrollViewManager
+09-06 16:27:20.416 3992-4152/com.rn.android W/unknown:ViewManagerPropertyUpdater: Could not find generated setter for class com.facebook.react.views.swiperefresh.SwipeRefreshLayoutManager
+09-06 16:27:20.682 3992-4162/com.rn.android E/ReactNativeJS: undefined is not a function (evaluating '(bridgeConfig.remoteModuleConfig || []).forEach')
+09-06 16:27:20.683 3992-4162/com.rn.android I/ReactNativeJS: 'Failed to print error: ', 'Requiring module "NativeModules", which threw an exception: TypeError: undefined is not a function (evaluating \'(bridgeConfig.remoteModuleConfig || []).forEach\')'
+09-06 16:27:20.683 3992-4162/com.rn.android E/ReactNative: Got JS Exception: TypeError: undefined is not a function (evaluating '(bridgeConfig.remoteModuleConfig || []).forEach')
+09-06 16:27:20.684 3992-4162/com.rn.android E/unknown:React: Exception in native call from JS
+                                                             com.facebook.react.bridge.JSExecutionException: TypeError: undefined is not a function (evaluating '(bridgeConfig.remoteModuleConfig || []).forEach') (http://10.0.2.2:8081/index.bundle?platform=android&dev=true&hot=false:4624)
+                                                                 at com.facebook.react.bridge.ReactBridge.loadScriptFromFile(Native Method)
+                                                                 at com.facebook.react.bridge.JSBundleLoader$2.loadScript(JSBundleLoader.java:58)
+                                                                 at com.facebook.react.bridge.CatalystInstanceImpl$2.call(CatalystInstanceImpl.java:146)
+                                                                 at com.facebook.react.bridge.CatalystInstanceImpl$2.call(CatalystInstanceImpl.java:137)
+                                                                 at com.facebook.react.bridge.queue.MessageQueueThreadImpl$1.run(MessageQueueThreadImpl.java:73)
+                                                                 at android.os.Handler.handleCallback(Handler.java:751)
+                                                                 at android.os.Handler.dispatchMessage(Handler.java:95)
+                                                                 at com.facebook.react.bridge.queue.MessageQueueThreadHandler.dispatchMessage(MessageQueueThreadHandler.java:31)
+                                                                 at android.os.Looper.loop(Looper.java:154)
+                                                                 at com.facebook.react.bridge.queue.MessageQueueThreadImpl$3.run(MessageQueueThreadImpladb reverse tcp:8081 tcp:8081.java:184)
+                                                                 at java.lang.Thread.run(Thread.java:761)
+09-06 16:27:20.760 3992-4162/com.rn.android A/libc: Fatal signal 11 (SIGSEGV), code 1, fault addr 0xbbadbeef in tid 4162 (mqt_js)
+
+                                                    [ 09-06 16:27:20.760  1258: 1258 W/         ]
+                                                    debuggerd: handling request: pid=3992 uid=10081 gid=10081 tid=4162
+09-06 16:27:21.205 3992-3992/? W/art: Verification of void com.facebook.csslayout.CSSNode.toStringWithIndentation(java.lang.StringBuilder, int) took 440.834ms
